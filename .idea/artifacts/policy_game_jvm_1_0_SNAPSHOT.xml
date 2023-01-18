@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="policy_game-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="policy_game-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="policy_game.jvmMain" />
+    </root>
+  </artifact>
+</component>
